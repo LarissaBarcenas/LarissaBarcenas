@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá, seja bem-vindo ao meu GitHub! 👋
+Meu nome é Larissa, sou estudante de Análise e Desenvolvimento de Sistemas.
+Aqui você vai encontrar os projetos que estão desenvolvendo. 
 
-<!--
-**LarissaBarcenas/LarissaBarcenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tecnologias que estou estudando
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- Angular
+- C#
+- .NET
+- APIs REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+📌 Gestor de Tarefas (Angular)  
+📌 Sistema Frontend com Login  
+📌 API Backend em .NET  
+
+🔗 Portfólio: https://github.com/LarissaBarcenas
